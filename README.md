@@ -1,7 +1,6 @@
 Hi 👋 My name is Atheekath Roshan
 =================================
-
-Intern Software Engineer
+Software Intern
 ------------------------
 
 Thank You for taking time to view my GitHub Profile
