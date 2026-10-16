@@ -6,7 +6,7 @@ Software Intern
 Thank You for taking time to view my GitHub Profile
 
 * 🌍  I'm based in Sri Lanka
-* 🖥️  See my portfolio at [MyPortfolio](https://atheekathroshan.github.io/My-Portfolio/)).
+* 🖥️  See my portfolio at [MyPortfolio](https://atheekathroshan.github.io/My-Portfolio/).
 * ✉️  You can contact me at [atheekathroshan03@gmail.com](mailto:atheekathroshan03@gmail.com)
 * 🧠  I'm currently learning Higher National Diploma in Information Technology
 * 👥  I'm looking to collaborate on Interesting Projects and Team works
